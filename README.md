@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SulSyeda03
+- 👋 Hi, I’m Syeda Sultana
 - 👀 I’m currently learning to become Full Stack Developer
 - 📫 hackkerrank - sulsyeda03 
 
